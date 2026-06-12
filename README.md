@@ -1,8 +1,8 @@
-# 📄 PDF Question Answering Chatbot using RAG
+#  PDF Question Answering Chatbot using RAG
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask questions in natural language. The system retrieves relevant information from the document and generates accurate answers using Large Language Models (LLMs).
 
-## 🚀 Features
+##  Features
 
 * 📂 Upload and analyze PDF documents
 * 🔍 Semantic search using vector embeddings
@@ -75,24 +75,6 @@ pdf-rag-chatbot/
 └── README.md
 ```
 
-## 🎯 Use Cases
-
-* Academic Research
-* Resume Analysis
-* Legal Document Review
-* Business Reports
-* Research Papers
-* Technical Documentation
-* Study Materials
-
-## 📈 Future Improvements
-
-* Multiple PDF support
-* Chat history memory
-* Source citation highlighting
-* Voice-based interaction
-* Cloud deployment
-* Advanced document summarization
 
 ## 📚 References
 
