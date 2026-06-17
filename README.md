@@ -83,4 +83,5 @@ pdf-rag-chatbot/
 * Streamlit Documentation
 * Hugging Face Transformers
 * Retrieval-Augmented Generation (RAG)
-
+## Output
+<img width="1878" height="846" alt="image" src="https://github.com/user-attachments/assets/55c1c8a2-b200-4545-a469-ffda4a76601f" />
