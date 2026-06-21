@@ -75,7 +75,8 @@ pdf-rag-chatbot/
 └── README.md
 ```
 
-
+## Reviews
+This project is reviewed by ReviewAI 🤖
 ## 📚 References
 
 * LangChain Documentation
